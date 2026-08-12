@@ -1,0 +1,108 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="684.0" height="685.0" viewBox="0 0 684.0 685.0">
+<rect width="100%" height="100%" fill="#0d1117"/>
+<style>
+  text { font-family: 'Courier New', Courier, monospace; font-size: 12px; fill: #c9d1d9; white-space: pre; }
+</style>
+<defs>
+  <clipPath id="cr0"><rect x="0" y="0.0" width="0" height="13.5"><animate attributeName="width" from="0" to="684.0" dur="0.28s" begin="0.000s" fill="freeze"/></rect></clipPath>
+  <clipPath id="cr1"><rect x="0" y="13.5" width="0" height="13.5"><animate attributeName="width" from="0" to="684.0" dur="0.28s" begin="0.045s" fill="freeze"/></rect></clipPath>
+  <clipPath id="cr2"><rect x="0" y="27.0" width="0" height="13.5"><animate attributeName="width" from="0" to="684.0" dur="0.28s" begin="0.090s" fill="freeze"/></rect></clipPath>
+  <clipPath id="cr3"><rect x="0" y="40.5" width="0" height="13.5"><animate attributeName="width" from="0" to="684.0" dur="0.28s" begin="0.135s" fill="freeze"/></rect></clipPath>
+  <clipPath id="cr4"><rect x="0" y="54.0" width="0" height="13.5"><animate attributeName="width" from="0" to="684.0" dur="0.28s" begin="0.180s" fill="freeze"/></rect></clipPath>
+  <clipPath id="cr5"><rect x="0" y="67.5" width="0" height="13.5"><animate attributeName="width" from="0" to="684.0" dur="0.28s" begin="0.225s" fill="freeze"/></rect></clipPath>
+  <clipPath id="cr6"><rect x="0" y="81.0" width="0" height="13.5"><animate attributeName="width" from="0" to="684.0" dur="0.28s" begin="0.270s" fill="freeze"/></rect></clipPath>
+  <clipPath id="cr7"><rect x="0" y="94.5" width="0" height="13.5"><animate attributeName="width" from="0" to="684.0" dur="0.28s" begin="0.315s" fill="freeze"/></rect></clipPath>
+  <clipPath id="cr8"><rect x="0" y="108.0" width="0" height="13.5"><animate attributeName="width" from="0" to="684.0" dur="0.28s" begin="0.360s" fill="freeze"/></rect></clipPath>
+  <clipPath id="cr9"><rect x="0" y="121.5" width="0" height="13.5"><animate attributeName="width" from="0" to="684.0" dur="0.28s" begin="0.405s" fill="freeze"/></rect></clipPath>
+  <clipPath id="cr10"><rect x="0" y="135.0" width="0" height="13.5"><animate attributeName="width" from="0" to="684.0" dur="0.28s" begin="0.450s" fill="freeze"/></rect></clipPath>
+  <clipPath id="cr11"><rect x="0" y="148.5" width="0" height="13.5"><animate attributeName="width" from="0" to="684.0" dur="0.28s" begin="0.495s" fill="freeze"/></rect></clipPath>
+  <clipPath id="cr12"><rect x="0" y="162.0" width="0" height="13.5"><animate attributeName="width" from="0" to="684.0" dur="0.28s" begin="0.540s" fill="freeze"/></rect></clipPath>
+  <clipPath id="cr13"><rect x="0" y="175.5" width="0" height="13.5"><animate attributeName="width" from="0" to="684.0" dur="0.28s" begin="0.585s" fill="freeze"/></rect></clipPath>
+  <clipPath id="cr14"><rect x="0" y="189.0" width="0" height="13.5"><animate attributeName="width" from="0" to="684.0" dur="0.28s" begin="0.630s" fill="freeze"/></rect></clipPath>
+  <clipPath id="cr15"><rect x="0" y="202.5" width="0" height="13.5"><animate attributeName="width" from="0" to="684.0" dur="0.28s" begin="0.675s" fill="freeze"/></rect></clipPath>
+  <clipPath id="cr16"><rect x="0" y="216.0" width="0" height="13.5"><animate attributeName="width" from="0" to="684.0" dur="0.28s" begin="0.720s" fill="freeze"/></rect></clipPath>
+  <clipPath id="cr17"><rect x="0" y="229.5" width="0" height="13.5"><animate attributeName="width" from="0" to="684.0" dur="0.28s" begin="0.765s" fill="freeze"/></rect></clipPath>
+  <clipPath id="cr18"><rect x="0" y="243.0" width="0" height="13.5"><animate attributeName="width" from="0" to="684.0" dur="0.28s" begin="0.810s" fill="freeze"/></rect></clipPath>
+  <clipPath id="cr19"><rect x="0" y="256.5" width="0" height="13.5"><animate attributeName="width" from="0" to="684.0" dur="0.28s" begin="0.855s" fill="freeze"/></rect></clipPath>
+  <clipPath id="cr20"><rect x="0" y="270.0" width="0" height="13.5"><animate attributeName="width" from="0" to="684.0" dur="0.28s" begin="0.900s" fill="freeze"/></rect></clipPath>
+  <clipPath id="cr21"><rect x="0" y="283.5" width="0" height="13.5"><animate attributeName="width" from="0" to="684.0" dur="0.28s" begin="0.945s" fill="freeze"/></rect></clipPath>
+  <clipPath id="cr22"><rect x="0" y="297.0" width="0" height="13.5"><animate attributeName="width" from="0" to="684.0" dur="0.28s" begin="0.990s" fill="freeze"/></rect></clipPath>
+  <clipPath id="cr23"><rect x="0" y="310.5" width="0" height="13.5"><animate attributeName="width" from="0" to="684.0" dur="0.28s" begin="1.035s" fill="freeze"/></rect></clipPath>
+  <clipPath id="cr24"><rect x="0" y="324.0" width="0" height="13.5"><animate attributeName="width" from="0" to="684.0" dur="0.28s" begin="1.080s" fill="freeze"/></rect></clipPath>
+  <clipPath id="cr25"><rect x="0" y="337.5" width="0" height="13.5"><animate attributeName="width" from="0" to="684.0" dur="0.28s" begin="1.125s" fill="freeze"/></rect></clipPath>
+  <clipPath id="cr26"><rect x="0" y="351.0" width="0" height="13.5"><animate attributeName="width" from="0" to="684.0" dur="0.28s" begin="1.170s" fill="freeze"/></rect></clipPath>
+  <clipPath id="cr27"><rect x="0" y="364.5" width="0" height="13.5"><animate attributeName="width" from="0" to="684.0" dur="0.28s" begin="1.215s" fill="freeze"/></rect></clipPath>
+  <clipPath id="cr28"><rect x="0" y="378.0" width="0" height="13.5"><animate attributeName="width" from="0" to="684.0" dur="0.28s" begin="1.260s" fill="freeze"/></rect></clipPath>
+  <clipPath id="cr29"><rect x="0" y="391.5" width="0" height="13.5"><animate attributeName="width" from="0" to="684.0" dur="0.28s" begin="1.305s" fill="freeze"/></rect></clipPath>
+  <clipPath id="cr30"><rect x="0" y="405.0" width="0" height="13.5"><animate attributeName="width" from="0" to="684.0" dur="0.28s" begin="1.350s" fill="freeze"/></rect></clipPath>
+  <clipPath id="cr31"><rect x="0" y="418.5" width="0" height="13.5"><animate attributeName="width" from="0" to="684.0" dur="0.28s" begin="1.395s" fill="freeze"/></rect></clipPath>
+  <clipPath id="cr32"><rect x="0" y="432.0" width="0" height="13.5"><animate attributeName="width" from="0" to="684.0" dur="0.28s" begin="1.440s" fill="freeze"/></rect></clipPath>
+  <clipPath id="cr33"><rect x="0" y="445.5" width="0" height="13.5"><animate attributeName="width" from="0" to="684.0" dur="0.28s" begin="1.485s" fill="freeze"/></rect></clipPath>
+  <clipPath id="cr34"><rect x="0" y="459.0" width="0" height="13.5"><animate attributeName="width" from="0" to="684.0" dur="0.28s" begin="1.530s" fill="freeze"/></rect></clipPath>
+  <clipPath id="cr35"><rect x="0" y="472.5" width="0" height="13.5"><animate attributeName="width" from="0" to="684.0" dur="0.28s" begin="1.575s" fill="freeze"/></rect></clipPath>
+  <clipPath id="cr36"><rect x="0" y="486.0" width="0" height="13.5"><animate attributeName="width" from="0" to="684.0" dur="0.28s" begin="1.620s" fill="freeze"/></rect></clipPath>
+  <clipPath id="cr37"><rect x="0" y="499.5" width="0" height="13.5"><animate attributeName="width" from="0" to="684.0" dur="0.28s" begin="1.665s" fill="freeze"/></rect></clipPath>
+  <clipPath id="cr38"><rect x="0" y="513.0" width="0" height="13.5"><animate attributeName="width" from="0" to="684.0" dur="0.28s" begin="1.710s" fill="freeze"/></rect></clipPath>
+  <clipPath id="cr39"><rect x="0" y="526.5" width="0" height="13.5"><animate attributeName="width" from="0" to="684.0" dur="0.28s" begin="1.755s" fill="freeze"/></rect></clipPath>
+  <clipPath id="cr40"><rect x="0" y="540.0" width="0" height="13.5"><animate attributeName="width" from="0" to="684.0" dur="0.28s" begin="1.800s" fill="freeze"/></rect></clipPath>
+  <clipPath id="cr41"><rect x="0" y="553.5" width="0" height="13.5"><animate attributeName="width" from="0" to="684.0" dur="0.28s" begin="1.845s" fill="freeze"/></rect></clipPath>
+  <clipPath id="cr42"><rect x="0" y="567.0" width="0" height="13.5"><animate attributeName="width" from="0" to="684.0" dur="0.28s" begin="1.890s" fill="freeze"/></rect></clipPath>
+  <clipPath id="cr43"><rect x="0" y="580.5" width="0" height="13.5"><animate attributeName="width" from="0" to="684.0" dur="0.28s" begin="1.935s" fill="freeze"/></rect></clipPath>
+  <clipPath id="cr44"><rect x="0" y="594.0" width="0" height="13.5"><animate attributeName="width" from="0" to="684.0" dur="0.28s" begin="1.980s" fill="freeze"/></rect></clipPath>
+  <clipPath id="cr45"><rect x="0" y="607.5" width="0" height="13.5"><animate attributeName="width" from="0" to="684.0" dur="0.28s" begin="2.025s" fill="freeze"/></rect></clipPath>
+  <clipPath id="cr46"><rect x="0" y="621.0" width="0" height="13.5"><animate attributeName="width" from="0" to="684.0" dur="0.28s" begin="2.070s" fill="freeze"/></rect></clipPath>
+  <clipPath id="cr47"><rect x="0" y="634.5" width="0" height="13.5"><animate attributeName="width" from="0" to="684.0" dur="0.28s" begin="2.115s" fill="freeze"/></rect></clipPath>
+  <clipPath id="cr48"><rect x="0" y="648.0" width="0" height="13.5"><animate attributeName="width" from="0" to="684.0" dur="0.28s" begin="2.160s" fill="freeze"/></rect></clipPath>
+  <clipPath id="cr49"><rect x="0" y="661.5" width="0" height="13.5"><animate attributeName="width" from="0" to="684.0" dur="0.28s" begin="2.205s" fill="freeze"/></rect></clipPath>
+</defs>
+<text x="0" y="13.5" clip-path="url(#cr0)">                                                                                               </text>
+<text x="0" y="27.0" clip-path="url(#cr1)">                                           ........``````..                                    </text>
+<text x="0" y="40.5" clip-path="url(#cr2)">                                        ``'''::::::'``````'''``..                              </text>
+<text x="0" y="54.0" clip-path="url(#cr3)">                                      .:=+****+**++++--:''`````:::'`.                          </text>
+<text x="0" y="67.5" clip-path="url(#cr4)">                       .''`.  .`''`..`+ssss*+*cc*+++cccsc+=-:++++*c*:``.                       </text>
+<text x="0" y="81.0" clip-path="url(#cr5)">                     .`:-:`..`::c*=+:-cs%%%#scccc**c#%#%#sc**cc****c-:-:'`.                    </text>
+<text x="0" y="94.5" clip-path="url(#cr6)">                   ..`':::```::-cscss*c%%%%%%###scc*cccs#s**css#c*ccss-'::```.                 </text>
+<text x="0" y="108.0" clip-path="url(#cr7)">                .'':::---:``'-*cc#c##c#%%%%####ssssssc**s##scs#%c=c#%sc*===..``.               </text>
+<text x="0" y="121.5" clip-path="url(#cr8)">              .'-=====--:''':+ccsc##%##%%%@@%%#ss##%s+=-+#%#ss%@%**sssscccs-...``.             </text>
+<text x="0" y="135.0" clip-path="url(#cr9)">            .'-=====---:'''::+##s*#%%#%%%%sc*++++==-'` .'-+s%%%%@s*%%s#*cs#*-'.`.``            </text>
+<text x="0" y="148.5" clip-path="url(#cr10)">           `:-=====--::'''':'+%%%%%%%%%%#*=-:::::''`..  .`'-+s@@%#s%%%%%##%c+=``..``.          </text>
+<text x="0" y="162.0" clip-path="url(#cr11)">         .`:=======--::''``'-cs%%%%%%%%s*==-:::::''```....`':=*c####%#s@%#%++-'``...``         </text>
+<text x="0" y="175.5" clip-path="url(#cr12)">        `'-=====---:::'````':+#%%%%%%%#*+=---::::''''`..  .`':''=#%%#%###sc+-'`.``...`'        </text>
+<text x="0" y="189.0" clip-path="url(#cr13)">       .'-====----:'''``````:-c%%%%%%%c++=--:::'''````.   .``''':+c#%%%%%s*+'`````....`'.      </text>
+<text x="0" y="202.5" clip-path="url(#cr14)">      `'-====-----:'`````''':=+%%%%%%#*+=-:::::::::'''```......`'=*c%%%%%%%#+''.`.``..``'.     </text>
+<text x="0" y="216.0" clip-path="url(#cr15)">     `':-----=----:'''''':::'-*%%%%%%c+=====++=====-----=====-:::++=s%%%%%%@#-'``````````:     </text>
+<text x="0" y="229.5" clip-path="url(#cr16)">    '-===-===------:'''::::::-*%%%%@#+=++++*ccssccc*+=*ccs##sc*++=--=#@#####c:````````````'    </text>
+<text x="0" y="243.0" clip-path="url(#cr17)">   .:====---:::---::''':::::::-s%%%@s=-::=**s%###sc*='-*#####**c*=--:*%sc*-'`.````````````'`   </text>
+<text x="0" y="256.5" clip-path="url(#cr18)">   `'-=--::''-:---::::::-:::''':#@%@c---+c#=+sc#%#c+`  =#%#ss*cc*=:::=s+s*-````````````````:   </text>
+<text x="0" y="270.0" clip-path="url(#cr19)">  .`:=---:'''-:----::::---::::'':s%%*=--==+**+ccc*+=`  .:-+*+==:`.`':-c*c#:.```'`'''```````''  </text>
+<text x="0" y="283.5" clip-path="url(#cr20)">  .':-::'''`'-:----::::::::::::'`'+#+==-:::::---=+::'.  .`...    .`':-**-'.```'''''''```````:  </text>
+<text x="0" y="297.0" clip-path="url(#cr21)">  `::::::''`'-:---------:::::::''.'s*=+=-:'``'':*===--:=-:-'.....`':-+*-`.````''''''''''``'`'` </text>
+<text x="0" y="310.5" clip-path="url(#cr22)"> .:-------:::=----------:::::::''``+#++===:::::+*cs#c+*%s=**=-:::':-=sc:.```'''''''''''''''''' </text>
+<text x="0" y="324.0" clip-path="url(#cr23)"> .==++=++=---=:--------::::::::'''`+%c+==----=*ccsccc**=-'-sc++==--=*%='````'''''''''''''''''' </text>
+<text x="0" y="337.5" clip-path="url(#cr24)"> .:-==----:':=:------:-::::::::'''`=##c+=--==c#c*****+=-=++#%c+===+c#* .```''''''''''''''''''' </text>
+<text x="0" y="351.0" clip-path="url(#cr25)"> .:------::':-:--------:::::::::''``:s#s*====csc**+=--:':--=sc===+c##`.````''''''''''''''''''' </text>
+<text x="0" y="364.5" clip-path="url(#cr26)"> .:----::::`'-:-------::::::::::'''``:ssc+-==++====+**+=:'''=*++**##'.``````'''''''''''''''''' </text>
+<text x="0" y="378.0" clip-path="url(#cr27)"> .:-==--:-'`'-:-----:---::::::::'''``.-sc======----::'....`':=+**s#'.``````''''''''''''''''''' </text>
+<text x="0" y="391.5" clip-path="url(#cr28)"> .=-+::-::'::-:----------::::::::'''``-*sc+=======---:-:':::=++*cc:.`````''''''''''''''''''':` </text>
+<text x="0" y="405.0" clip-path="url(#cr29)">  -=+--=-:=+:=---====---------::::'`'-s=*s#sc**cc**++=**cs*csssc*-```''''''''''''''''''''''':. </text>
+<text x="0" y="418.5" clip-path="url(#cr30)">  :=====-----==============----::''''=c=++c###sss##sccs###%%##c+=-`''''''::'::::::::::::'''':  </text>
+<text x="0" y="432.0" clip-path="url(#cr31)">  `=+++++++++===+++==========--:'':::+c=+=+*c#%%###sssss#%#scc+=-+'''::::::::::::::::::::'':.  </text>
+<text x="0" y="445.5" clip-path="url(#cr32)">   '==========++***++===-:::'''':---:=s+==++*ccssssssssssscc**+=-c'`'`':----:-----:::::::'::   </text>
+<text x="0" y="459.0" clip-path="url(#cr33)">    -=++++++++*+==-:::'```''`''::'::-=s*===++***ccccccccc***++===c''''..`':-=-------::::::-.   </text>
+<text x="0" y="472.5" clip-path="url(#cr34)">    `===--:'''`...```''':-==-:-::-====#c+====++*******+*+++++===*c`':``.   ..'-===-----::-`    </text>
+<text x="0" y="486.0" clip-path="url(#cr35)">     ':``..`.....`''::--=-=ss*=-++====##*======+**+++==========-s*:''``..   .  .`::----:-'     </text>
+<text x="0" y="499.5" clip-path="url(#cr36)">      ':'''''''`''':--==:'::---==-----#@#c+==========----------+%=::'``...'=:'`.    ...''      </text>
+<text x="0" y="513.0" clip-path="url(#cr37)">       ':`'''':''::-----:.':::------:-#%%%sc*+==--::::'::::--+*c%=''::'`.'-'``''`..   `'       </text>
+<text x="0" y="526.5" clip-path="url(#cr38)">        `:'':-:-::-----:-.`'':::::::::#%#ssssssscc**==++=++****c%-``''::'`.`````:'`..:'        </text>
+<text x="0" y="540.0" clip-path="url(#cr39)">         .:-:----::::-:'=`''::---::::'s%scc**cccccccc**++++==+=s#::'''''-::'`'':::'':`         </text>
+<text x="0" y="553.5" clip-path="url(#cr40)">           '------:'''''+:'::':::::'''css*+***==--====+==-==+++#s'''`.`''--:`.`:'-=:           </text>
+<text x="0" y="567.0" clip-path="url(#cr41)">            .:--:----:::==`':-::::''``c*c++*+=====++=---::-=+=+#c`''`.`'''::'.':-:.            </text>
+<text x="0" y="580.5" clip-path="url(#cr42)">              .':---=====*'``::'''````ccc*==++=++==+==-=---===*%+.``...`''''.`-:`              </text>
+<text x="0" y="594.0" clip-path="url(#cr43)">                .'::::---*-```''.`````**c*+*+===-----::-+=-==+s%=``...````''':`                </text>
+<text x="0" y="607.5" clip-path="url(#cr44)">                   `'''''=+```'''`````*cc*+=-=**-::==+=+=====+s%:````.`.`::'.                  </text>
+<text x="0" y="621.0" clip-path="url(#cr45)">                     .'::-c:.`'''`'`.`***+++==++==::---=+=+++*s#`....`'''.                     </text>
+<text x="0" y="634.5" clip-path="url(#cr46)">                       .`'=+'``'''''.`c****+=+***cc+=+=--:+++c%s```'''.                        </text>
+<text x="0" y="648.0" clip-path="url(#cr47)">                           `'::-----:`*c+=+c*****+c*c*+==--+*cs+''`.                           </text>
+<text x="0" y="661.5" clip-path="url(#cr48)">                              ..`''::'-===+c*++**-==cc+=-:''`.                                 </text>
+<text x="0" y="675.0" clip-path="url(#cr49)">                                        .....```....                                           </text>
+</svg>
