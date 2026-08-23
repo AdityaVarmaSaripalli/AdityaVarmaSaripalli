@@ -1,50 +1,15 @@
 {
   "username": "AdityaVarmaSaripalli",
-  "fetched": "2026-08-22",
+  "fetched": "2026-08-23",
   "total_contributions": 644,
-  "current_streak": 13,
-  "longest_streak": 13,
+  "current_streak": 14,
+  "longest_streak": 14,
   "best_day": {
     "date": "2026-05-24",
     "level": 4,
     "count": 25
   },
   "days": [
-    {
-      "date": "2025-08-17",
-      "level": 0,
-      "count": 0
-    },
-    {
-      "date": "2025-08-18",
-      "level": 0,
-      "count": 0
-    },
-    {
-      "date": "2025-08-19",
-      "level": 1,
-      "count": 2
-    },
-    {
-      "date": "2025-08-20",
-      "level": 1,
-      "count": 2
-    },
-    {
-      "date": "2025-08-21",
-      "level": 0,
-      "count": 0
-    },
-    {
-      "date": "2025-08-22",
-      "level": 0,
-      "count": 0
-    },
-    {
-      "date": "2025-08-23",
-      "level": 0,
-      "count": 0
-    },
     {
       "date": "2025-08-24",
       "level": 0,
@@ -1862,8 +1827,13 @@
     },
     {
       "date": "2026-08-22",
-      "level": 0,
-      "count": 0
+      "level": 1,
+      "count": 2
+    },
+    {
+      "date": "2026-08-23",
+      "level": 1,
+      "count": 2
     }
   ]
 }
